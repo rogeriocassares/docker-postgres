@@ -1,2 +1,2 @@
-pgadmin4/*
-postgres/*
+pgadmin4/var/lib
+postgres/var/lib
