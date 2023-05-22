@@ -20,7 +20,7 @@ services:
             - PGADMIN_LISTEN_ADDRESS=pgadmin4
             - PGADMIN_LISTEN_PORT=5050
             - PGADMIN_DEFAULT_EMAIL=example@example.com
-            - PGADMIN_DEFAULT_PASSWORD=pgadmin_passwd
+            - PGADMIN_DEFAULT_PASSWORD=pgadmin4_passwd
             - PGADMIN_CONFIG_ENHANCED_COOKIE_PROTECTION=True
             # - 'PGADMIN_CONFIG_LOGIN_BANNER="Authorised users only!"'
         volumes:
